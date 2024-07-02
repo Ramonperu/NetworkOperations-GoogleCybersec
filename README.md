@@ -22,7 +22,7 @@ Son conjuntos de reglas que rigen la forma en que los dispositivos de una red se
 
     ***HTTP:** Este protocolo es un protocolo de capa de aplicación que proporciona un método de comunicación entre clientes y servidores de sitios web. Puerto 80*
 
-    ***DNS:**Este protocolo traduce los nombres de dominio de Internet en direcciones IP. Suele utilizar UDP en el puerto 53. Sin embargo, si la respuesta DNS a una solicitud es grande, cambiará a utilizar el protocolo TCP.*
+    ***DNS:** Este protocolo traduce los nombres de dominio de Internet en direcciones IP. Suele utilizar UDP en el puerto 53. Sin embargo, si la respuesta DNS a una solicitud es grande, cambiará a utilizar el protocolo TCP.*
 
   - **Protocolos de gestión:** Supervisan y gestionan la actividad de la red, incluidos los informes de errores y la optimización del rendimiento. Algunos ejemplos son:
 
@@ -30,7 +30,7 @@ Son conjuntos de reglas que rigen la forma en que los dispositivos de una red se
 
      ***(ICMP):** Este protocolo se utiliza para que los dispositivos se informen mutuamente sobre los errores de transmisión de datos en la red. ICMP es utilizado por un dispositivo receptor para enviar un informe al dispositivo emisor sobre la transmisión de datos.(Usado en comando ping)*
 
-  - **Protocolos de seguridad:** Garantizan la transmisión segura de datos mediante algoritmos de cifrado. Algunos ejemplos son
+  - **Protocolos de seguridad:** Garantizan la transmisión segura de datos mediante algoritmos de cifrado. Algunos ejemplos son:
 
     ***Hypertext Transfer Protocol Secure:** Es un protocolo de red que proporciona un método seguro de comunicación entre clientes y servidores web. HTTPS es una versión segura de HTTP que utiliza el cifrado de capa de sockets seguros/seguridad de la capa de transporte (SSL/TLS) en todas las transmisiones para que no se pueda leer la información contenida. HTTPS utiliza el puerto 443.*
 
