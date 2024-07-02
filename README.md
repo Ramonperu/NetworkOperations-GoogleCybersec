@@ -38,14 +38,14 @@ Son conjuntos de reglas que rigen la forma en que los dispositivos de una red se
 
 Otros protocolos a tener en cuenta:
 
-- **Traducción de direcciones de red (NAT):** Permite que los dispositivos en una red privada se comuniquen con la internet pública utilizando una única dirección IP pública.
-- **Protocolo de configuración dinámica de host (DHCP):** Asigna direcciones IP y otra información de configuración de red a los dispositivos en una red.
-- **Protocolo de resolución de direcciones (ARP):** Traduce las direcciones IP a direcciones MAC, que se utilizan para comunicarse con dispositivos en la misma red.
+- **(NAT) Traducción de direcciones de red:** Permite que los dispositivos en una red privada se comuniquen con la internet pública utilizando una única dirección IP pública.
+- **(DHCP) Protocolo de configuración dinámica de host:** Asigna direcciones IP y otra información de configuración de red a los dispositivos en una red.
+- **(ARP) Protocolo de resolución de direcciones:** Traduce las direcciones IP a direcciones MAC, que se utilizan para comunicarse con dispositivos en la misma red.
 - **Telnet:** Un protocolo de capa de aplicación utilizado para conectarse con un sistema remoto. Envía toda la información en texto claro y no es tan seguro como SSH.
-- **Secure Shell (SSH):** Proporciona una conexión segura con un sistema remoto utilizando comunicación cifrada.
-- **Protocolo de oficina postal (POP):** Se usa para administrar y recuperar correo electrónico de un servidor de correo.
-- **Protocolo de acceso a mensajes de internet (IMAP):** Se utiliza para el correo electrónico entrante. Descarga los encabezados y el contenido de los correos electrónicos y los mantiene en el servidor de correo electrónico, lo que permite a los usuarios acceder a su correo electrónico desde múltiples dispositivos.
-- **Protocolo simple de transferencia de correo (SMTP):** Se usa para transmitir y enrutar el correo electrónico desde el remitente a la dirección del destinatario.
+- **(SSH) Secure Shell:** Proporciona una conexión segura con un sistema remoto utilizando comunicación cifrada.
+- **(POP) Protocolo de oficina postal:** Se usa para administrar y recuperar correo electrónico de un servidor de correo.
+- **(IMAP) Protocolo de acceso a mensajes de internet:** Se utiliza para el correo electrónico entrante. Descarga los encabezados y el contenido de los correos electrónicos y los mantiene en el servidor de correo electrónico, lo que permite a los usuarios acceder a su correo electrónico desde múltiples dispositivos.
+- **(SMTP) Protocolo simple de transferencia de correo:** Se usa para transmitir y enrutar el correo electrónico desde el remitente a la dirección del destinatario.
 
 ## Wireless Protocols o Protocolos de seguridad inalámbrica
 
@@ -114,8 +114,6 @@ Cortafuegos con estado vs. sin estado:
 - Parte de la segmentación de la red, que divide la red en segmentos con diferentes permisos de acceso y reglas de seguridad.
 - Controlan quién puede acceder a las diferentes partes de la red.
 - Actúan como una barrera para las redes internas, mantienen la privacidad y evitan que los problemas se propaguen.
-
-
 
 Tipos de zonas de seguridad:
 
