@@ -22,7 +22,7 @@ Son conjuntos de reglas que rigen la forma en que los dispositivos de una red se
 
     ***HTTP:** Este protocolo es un protocolo de capa de aplicación que proporciona un método de comunicación entre clientes y servidores de sitios web. Puerto 80*
 
-    **DNS:**Este protocolo traduce los nombres de dominio de Internet en direcciones IP. Suele utilizar UDP en el puerto 53. Sin embargo, si la respuesta DNS a una solicitud es grande, cambiará a utilizar el protocolo TCP*
+    ***DNS:**Este protocolo traduce los nombres de dominio de Internet en direcciones IP. Suele utilizar UDP en el puerto 53. Sin embargo, si la respuesta DNS a una solicitud es grande, cambiará a utilizar el protocolo TCP.*
 
   - **Protocolos de gestión:** Supervisan y gestionan la actividad de la red, incluidos los informes de errores y la optimización del rendimiento. Algunos ejemplos son:
 
